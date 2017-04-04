@@ -1,0 +1,20 @@
+supervised learning
+-given a set of correct data(with x & y)
+-regression(fitting a continuous mathematical model & predicting the outcome)
+-discrete(categories classification within probability)
+
+unsupervised learning
+-given a jumble of data, no idea what our results should look like.
+-clustering problem - derive a structure from data. dont necessarily know the effect.
+-clustering based on relationships among variables in data
+ex: cocktail party algorithm
+
+Cost function(J)
+-measures accuracy of hypothesis(H)
+-one way(used alot) is the "Squared Error Function", or "Mean Squared Error"
+-J(theta 0, theta 1) = 1/2m * [sum of series (h(x)-y)^2 from i to m], 
+-where theta 0 & 1= y-int & slope, y=actual val, h(x)=predicted val, m=# of indices
+-1/m for averaging the squared error, and 1/2 for making math easy upon taking derivative of fxn.
+-idea is to choose theta(0) and theta(1) to minimize error.
+-Idea: NEED A PROGRAM TO FIND THETA(0) & THETA(1) WHERE GLOBAL COST IS MINIMAL.
+
