@@ -18,3 +18,14 @@ Cost function(J)
 -idea is to choose theta(0) and theta(1) to minimize error.
 -Idea: NEED A PROGRAM TO FIND THETA(0) & THETA(1) WHERE GLOBAL COST IS MINIMAL.
 
+Regressions
+-Linear Regression
+-Logistic Regression(classification)
+-1-vs-all-logistic regression
+-Standardization, Mean Normalization
+-Regularization
+
+Neural Networks
+-Multi-class Classification(1-vs-all Logistic Regression) through Neural Networks
+-Neural Network Structure(Dendrites, Axons, I/O layers, Hidden layer etc)
+-Implementation of Logical functions w/ Neural Networks. Forward-Propagation
