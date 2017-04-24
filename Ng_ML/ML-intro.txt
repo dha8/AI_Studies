@@ -26,6 +26,8 @@ Regressions
 -Regularization
 
 Neural Networks
+-theta dimensions: S(j+1) X S(j)+1
 -Multi-class Classification(1-vs-all Logistic Regression) through Neural Networks
 -Neural Network Structure(Dendrites, Axons, I/O layers, Hidden layer etc)
 -Implementation of Logical functions w/ Neural Networks. Forward-Propagation
+-Backward-propagation. Will revisit. dimensions and Math not making sense completely.
